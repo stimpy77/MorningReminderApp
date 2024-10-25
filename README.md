@@ -61,7 +61,7 @@ I'm so busy, I won't have time to honor pull requests. But otherwise I'd always 
 
 ## License 📄
 
-This project is licensed under the MIT License – see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License – see the [LICENSE.md](LICENSE) file for details.
 
 ## A Final Note 🌞
 
