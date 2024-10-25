@@ -7,7 +7,7 @@ The Morning Reminder App is here to help you start your day on the right foot! I
 ## Features 🎉
 
 - **Morning Reminders:** Displays a customizable, full-screen reminder to help you stay on track with your morning routine.
-- **Inactivity Detection:** Detects when you haven't been using your computer and reminds you if it's time to get moving.
+- **Inactivity-Based Trigger:** Uses periods of inactivity to determine when to display the morning reminder, ensuring it appears at the right time.
 - **Configurable Time Windows:** Choose the time range for your morning reminder (e.g., 5 a.m. to 10 a.m.) to suit your schedule.
 - **Evening Notification:** Reminds you in the evening to configure tomorrow's morning reminder—perfect for staying proactive!
 - **System Tray Integration:** Minimizes to the system tray, keeping your desktop clutter-free while staying at your service.
