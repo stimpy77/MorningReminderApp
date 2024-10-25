@@ -1,0 +1,7 @@
+﻿{
+  "ReminderMessage": "Good Morning! Remember to do your stretching and have a healthy breakfast!",
+  "ReminderFile": "reminder.txt",
+  "StartHour": 5,
+  "EndHour": 10,
+  "InactivityHours": 3
+}
