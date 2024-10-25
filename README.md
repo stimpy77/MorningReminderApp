@@ -49,7 +49,7 @@ Let this app be a small part of your daily success story.
 
 ## Troubleshooting & Support 🙋‍♂️🙋‍♀️
 
-If you run into any issues or have questions, I'm here to help! Just kidding, github is, though! Please [submit an issue](#) (link to your issue tracker).
+If you run into any issues or have questions, I'm here to help! Just kidding, github is, though! Please [submit an issue](https://github.com/stimpy77/MorningReminderApp/issues).
 
 ## Contributing 🤝
 
