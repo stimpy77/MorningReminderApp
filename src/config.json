@@ -1,7 +1,13 @@
 ﻿{
-  "ReminderMessage": "Good Morning! Remember to do your stretching and have a healthy breakfast!",
+  "ReminderMessage": "Good Morning! Don\u0027t forget your morning regimen!",
   "ReminderFile": "reminder.txt",
-  "StartHour": 5,
-  "EndHour": 10,
-  "InactivityHours": 3
+  "StartTime": "05:00:00",
+  "EndTime": "10:00:00",
+  "InactivityHours": 3,
+  "EveningNotificationTime": "21:00:00",
+  "IsMaximized": false,
+  "WindowWidth": 1028,
+  "WindowHeight": 720,
+  "WindowLeft": 186,
+  "WindowTop": 171
 }
