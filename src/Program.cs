@@ -18,7 +18,7 @@ namespace MorningReminderApp
         }
 
         static Timer checkTimer;
-        static AppConfig appConfig;
+        internal static AppConfig appConfig;
         static DateTime lastReminderDate = DateTime.MinValue; // Tracks the last date the reminder was shown
         static Form? reminderForm;
 
