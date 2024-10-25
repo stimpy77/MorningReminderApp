@@ -17,7 +17,7 @@ The Morning Reminder App is here to help you start your day on the right foot! I
 
 Follow these steps to start using the Morning Reminder App:
 
-1. **Download the latest release** from the [Releases page](https://github.com/stimpy77/MorningReminderApp/releases) (link to your release page).
+1. **Download the latest release** from the [Releases page](https://github.com/stimpy77/MorningReminderApp/releases).
 2. **Run the setup** to install the application.
 3. **Launch the app**. The configuration window will open, allowing you to customize your settings.
 4. **Set your preferences**:
