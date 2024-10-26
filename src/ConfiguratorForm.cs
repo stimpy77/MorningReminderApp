@@ -131,6 +131,13 @@ namespace MorningReminderApp
 
         private void ConfiguratorForm_FormClosing(object sender, FormClosingEventArgs e)
         {
+            if (e.CloseReason == CloseReason.WindowsShutDown)
+            {
+                _isClosing = true;
+                trayIcon.Dispose();
+                notificationTimer.Dispose();
+                Application.Exit();
+            }
             var result = _isClosing
                 ? DialogResult.Yes
                 : MessageBox.Show(
