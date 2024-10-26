@@ -17,7 +17,7 @@ The Morning Reminder App is here to help you start your day on the right foot! I
 
 Follow these steps to start using the Morning Reminder App:
 
-1. **Download the latest release** from the [Releases page](#) (link to your release page).
+1. **Download the latest release** from the [Releases page](https://github.com/stimpy77/MorningReminderApp/releases).
 2. **Run the setup** to install the application.
 3. **Launch the app**. The configuration window will open, allowing you to customize your settings.
 4. **Set your preferences**:
@@ -49,7 +49,7 @@ Let this app be a small part of your daily success story.
 
 ## Troubleshooting & Support 🙋‍♂️🙋‍♀️
 
-If you run into any issues or have questions, I'm here to help! Just kidding, github is, though! Please [submit an issue](#) (link to your issue tracker).
+If you run into any issues or have questions, I'm here to help! Just kidding, github is, though! Please [submit an issue](https://github.com/stimpy77/MorningReminderApp/issues).
 
 ## Contributing 🤝
 
@@ -61,7 +61,7 @@ I'm so busy, I won't have time to honor pull requests. But otherwise I'd always 
 
 ## License 📄
 
-This project is licensed under the MIT License – see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ## A Final Note 🌞
 
